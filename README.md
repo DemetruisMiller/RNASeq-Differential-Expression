@@ -70,3 +70,5 @@ This guide provides the exact step by step protocol for processing raw PAT-seq d
   * Under Group 1 and 2, when selecting the 'Count Files', Press the three dots and select the features counts appropriately, only selecting the files labeled **Count** not summary
   * Under **Contrast**, this is the name of the two groups seperated by a hyphen. e.g. **Control-Salt**
   * **Expected output:** Finalized table displaying gene expression data ready for RStusio.
+
+  
