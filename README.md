@@ -66,7 +66,7 @@ This guide provides the exact step by step protocol for processing raw PAT-seq d
 * **Purpose:** Perform differential expression of count data
 * **What to Input:** The featureCounts on Collection data
 * **Module Settings:**
-  * Fill in the names for Factor and Group names.
-  *Under Group 1 and 2, when selecting the 'Count Files', Press the three dots and select the        features counts appropriately, only selecting the files labeled **Count** not summary
-  *Under contrast, this is the name of the two groups seperated by a hyphen. e.g. **Control-Salt
+* * Fill in the names for Factor and Group names.
+* * Under Group 1 and 2, when selecting the 'Count Files', Press the three dots and select the features counts appropriately, only selecting the files labeled **Count** not summary
+* * Under contrast, this is the name of the two groups seperated by a hyphen. e.g. **Control-Salt
 **
